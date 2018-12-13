@@ -34,6 +34,216 @@ animals = [
         "gender": "Ara",
         "species": "Ara ararauna",
         "commonName": "Guacamaya azul o azul amarillo, papagayo o paraba azul amarillo" 
+    },
+    {
+       "id": "4",
+        "name": "Guacamaya Bandera",
+        "class": "Ave",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "gender": "ara",
+        "species": "Ara ararauna",
+        "commonName": "guacamaya bandera, guacamayo macao, guacamayo rojo" 
+    },
+    {
+       "id": "5",
+        "name": "Tapir",
+        "class": "mammalia",
+        "order": "perissodactyla",
+        "family": "tapiridae",
+        "gender": "tapirus",
+        "species": "tapirus bairdii",
+        "commonName": "tapir centroamericano, danta, anteburro, macho de monte" 
+    },
+    {
+        "id": "6",
+        "name": "Venado cola blanca",
+        "class": " mammalia",
+        "order": "  artiodactyla",
+        "family": ": cervidae",
+        "gender": " odocoileus",
+        "species":" odocoileus virginiaus",
+        "commonName": " Venado de cola blanca, ciervo de cola blanca, ciervo de virginia"
+    },
+    {
+        "id": "7",
+        "name": "Jaguar",
+        "class": " Mammalia",
+        "order": " Carnívora",
+        "family": ": felidae",
+        "gender": " panthera", 
+        "species":" panthera onca",
+        "commonName": " jaguar, Yaguar, Yaguerete Balam, Barum"
+    },
+    {
+        "id": "8",
+        "name": "Zorro cangrejero",
+        "class": " mammalia",
+        "order": " carnivora",
+        "family": ": canidae",
+        "gender": " cersocyon", 
+        "species":" cerdocyon thous",
+        "commonName": " zorro de monte, zorro sabanero"
+    },
+    {
+        "id": "9",
+        "name": "Nutria",
+        "class": " Mammalia",
+        "order": " carnívora ",
+        "family": ": Mustelidae",
+        "gender": " Sanguinus",
+        "species":" Lontra longicaudis",
+        "commonName": " nutria, lobito de río"
+    },
+    {
+        "id": "10",
+        "name": "Saino",
+        "class": " Mammalia",
+        "order": " artiodactyla",
+        "family": ": tayassuidae",
+        "gender": "  tayassu",
+        "species":" tayassu tajacu",
+        "commonName": " saino, pecarí de collar, jabalí"
+    },
+    {
+        "id": "11",
+        "name": " puma",
+        "class": " Mammalia",
+        "order": " carnivora",
+        "family": " feliade",
+        "gender": " puma",
+        "species":" puma con color",
+        "commonName": " leon  de montaña"
+    },
+    {
+        "id": "12",
+        "name": "  mono cara blanca ",
+        "class": " Mammalia",
+        "order": " primate",
+        "family": " cedibae",
+        "gender": " cebus",
+        "species":" cebius capuchino",
+        "commonName": " cari blanco maicero capuchino tanque manchin"
+    },
+    {
+        "id": "13",
+        "name": " mono titi panameño",
+        "class": " Mammalia",
+        "order": " primates",
+        "family": " calitrichidae",
+        "gender": " saguinus",
+        "species":" saguinus geoffroyi",
+        "commonName": " titi tamarindo panameño,tamarindo de nuca café, pinche de morron"
+    },
+    {
+        "id": "14",
+        "name": " Loro comun",
+        "class": " aves",
+        "order": " psittaciformes",
+        "family": " psiittacidae",
+        "gender": " Amazona",
+        "species":" amazona ochrocephala",
+        "commonName": " Amazonas Harinoso , Loro Harinoso, amazónico"
+    },  
+    {
+        "id": "15",
+        "name": " taira",
+        "class": " Mammalia",
+        "order": " carnivora",
+        "family": ":  mustelidae",
+        "gender": " eira",
+        "species":" eira barbara",
+        "commonName": " huron mayor,cabeza de viejo"
+    },
+    {
+        "id": "16",
+        "name": " tucan de pico castaño",
+        "class": "  Aves",
+        "order": " piciformes",
+        "family": " ramphastidae",
+        "gender": " ramphastos",
+        "species":" ramphastos swainsonii",
+        "commonName": " tucan Dio te de"
+    },
+    {
+        "id": "17",
+        "name": "  tortuga terrestre de patas rojas",
+        "class": " Sauropsida",
+        "order": " Testudin",
+        "family": " Testudinidae",
+        "gender": " chelonoidis",
+        "species":" chelonoidis carbonaria",
+        "commonName": "tortuga morrocoya"
+    },  
+    {
+        "id": "18",
+        "name": "  Tigrillo",
+        "class": " Mammalia",
+        "order": " carnivora",
+        "family": " felidae",
+        "gender": " leopardus",
+        "species":" leopardus wiedii",
+        "commonName": " gato tigre, caucel, maracaya"
+    },
+    {
+        "id": "19",
+        "name": "  gato solo",
+        "class": " Mammalia",
+        "order": " carnivora",
+        "family": " procyonidae",
+        "gender": " nasua",
+        "species":" nasua narica",
+        "commonName": "coati"
+    },
+    {
+        "id": "20",
+        "name": " mono araña colorado",
+        "class": " Mammalia",
+        "order": "  primates",
+        "family": " cebidae",
+        "gender": " ateles",
+        "species":" ateles geoffroy",
+        "commonName": "mono araña de manos negras"
+    },
+    {
+        "id": "21",
+        "name": " suirirí piquirrojo",
+        "class": " aves",
+        "order": " anseriformes",
+        "family": " anatidae",
+        "gender": " dendrocygna",
+        "species":" Dendrocygna autumnalis",
+        "commonName": "güichichi "
+    },
+    {
+        "id": "22",
+        "name": " guacamaya rojo",
+        "class": " ave",
+        "order": " psittaciforme",
+        "family": " psittacidae",
+        "gender": " Ara",
+        "species":" Ara chloropterus",
+        "commonName": " guacamayo aliverde"
+    },
+    {
+        "id": "23",
+        "name": " águila harpía",
+        "class": " ave",
+        "order": " accipitriforme",
+        "family": " accipitriforme",
+        "gender": " harpia",
+        "species":" harpia harpyja",
+        "commonName": " harpía mayor"
+    },
+    {
+        "id": "24",
+        "name": " capibara ronsoco",
+        "class": " Mammalia",
+        "order": "  rodentia",
+        "family": ": caviidae",
+        "gender": " hydrochoerus",
+        "species":" Hydrochoerus hydrochaeris",
+        "commonName": " chigüire, pancho, chigüiro"
     }
 ]
 
